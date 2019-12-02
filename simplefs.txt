@@ -1,0 +1,137 @@
+                                             @           p!@     M       Pu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+
+                                                               
+
+Project Report
+(Faculty Elective Courses)
+
+
+
+
+COM423       Mobile Systems
+
+
+SOUND AND TEXT TRANSLATOR
+
+
+
+
+
+
+
+Prepared by
+
+Halil Zafer Ertas Computer Engineering
+…….
+
+
+Supervisor
+
+Title     Name       Department
+
+                             Prof. Dr. NAIM MAHMOOD MUSLEH AJLOUNI COMPUTER ENGINEERING
+
+
+Spring 2019-20
+
+Table of Content
+
+1. Abstract   ……………………………………………………………………………….1
+2. Project Title……………………………………………………………………………1
+3 Problem Statement…………………………………………………………………1
+4. Current Situation……………………………………………………………………1
+5. The State desired to reach……………………………………………………..1
+6. Goal………………………………………………………………………………………. 1
+7. Objective………………………………………………………………………………..2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Abstract
+
+I will create a Sound and Text Translater Software Application by using MIT App Inventor for Mobile Phones. 
+
+2. Project Title
+
+Sound and Text Translator 
+
+3. Problem Statement
+
+Peoples always writes essays or documents in life. But sometimes it needs to be translated file because of international process. By this program the peoples can translate what they need either speaking or writing. The process will be much faster and easier by this way.
+
+4. Current Situation
+
+
+• Events: What events cause or contribute to the situation? This can include a history of how the problem began and how it has evolved over time. 
+The reason is to develope this application is sometimes peoples can be a situation in needs to be communicate or send the document in foreign language. We will now consider just Spanish and English this time. 
+
+• Behaviours: How do the attitudes, thinking and perceptions of third parties, and customers (of the problem) contribute to the current situation? What is the effect of their behaviour on the situation?
+The Customers can communicate much faster and easier by using this program and can send their documents clearly. 
+
+• Systematic structures: How do physical structures or work processes contribute to the situation? 
+For example when somebody don’t understand what other persons said then he can use this program and benefits to their work.
+
+5. The State desired to reach
+
+When I finished the Project I expect the peoples can translate anything between TR-ESP & TR-ENG. 
+   First of all peoples will choose the languages the text file is and which is the language that he wants to translate and then he will choose the file (copy and paste it to the textbox and after that the program automatically handle with translation the document.in the another text plot. 
+
+
+
+
+
+6. Goal 
+I am planning to achieve for example people can translate their document to Spanish or English and then send the correct document for Erasmus to applicant country or at work… etc
+
+
+7. Objective
+The objective of this Project is to create a translator application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  . u                            ..      «·÷ý  p!@            
